@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1545614243 source:c:\users\Петька\desktop\Первая лаба, разбитая\src\stadion.cpp
+	"Stadion.h"
+
+1545614702 c:\users\Петька\desktop\Первая лаба, разбитая\include\stadion.h
+	<iostream>
+	<fstream>
+
+1545614572 source:c:\users\Петька\desktop\Первая лаба, разбитая\src\list.cpp
+	"List.h"
+
+1545614572 c:\users\Петька\desktop\Первая лаба, разбитая\include\list.h
+	"Stadion.h"
+
+1545614758 source:c:\users\Пётр\desktop\Первая лаба, разбитая\main.cpp
+	<string>
+	"List.h"
+
+1545614574 c:\users\Пётр\desktop\Первая лаба, разбитая\include\list.h
+	"Stadion.h"
+
+1545614704 c:\users\Пётр\desktop\Первая лаба, разбитая\include\stadion.h
+	<iostream>
+	<fstream>
+
+1545614574 source:c:\users\Пётр\desktop\Первая лаба, разбитая\src\list.cpp
+	"List.h"
+
+1545614244 source:c:\users\Пётр\desktop\Первая лаба, разбитая\src\stadion.cpp
+	"Stadion.h"
+
